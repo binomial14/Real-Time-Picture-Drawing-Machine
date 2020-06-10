@@ -1,2 +1,10 @@
 # Real-time-Picture-Drawing-Machine
-## Introduction
+
+## Take Picture
+```
+sh run.sh <picture> <picture_transform>
+```
+## Drawing
+```
+sh draw.sh <gcode> <gcode_modified>
+```
