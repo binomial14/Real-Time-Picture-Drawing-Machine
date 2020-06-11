@@ -7,6 +7,7 @@ We build this system with the help of these repos:
 + [grbl-servo](https://github.com/robottini/grbl-servo)
 
 ![architecture](./img/architecture.png)
+[![Demo](https://img.youtube.com/vi/XFeANVEaMYw/0.jpg)](https://www.youtube.com/watch?v=XFeANVEaMYw)
 
 ## Instruction
 
