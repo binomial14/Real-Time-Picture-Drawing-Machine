@@ -6,6 +6,7 @@ We build this system with the help of these repos:
 + [gcode-cli](https://github.com/hzeller/gcode-cli)
 + [grbl-servo](https://github.com/robottini/grbl-servo)
 
+## Introduction
 ![architecture](./img/architecture.png)
 The demo video can be found [here](https://www.youtube.com/watch?v=XFeANVEaMYw)
 
