@@ -9,7 +9,7 @@ We build this system with the help of these repos:
 ## Introduction
 ![architecture](./img/architecture.png)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XFeANVEaMYw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+The demo video can be found [here](https://youtu.be/XFeANVEaMYw)
 
 ## Instruction
 
